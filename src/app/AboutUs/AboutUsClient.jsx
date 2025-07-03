@@ -444,7 +444,7 @@ function TeamTabs() {
    
     {
       name: "Waseb Untwale",
-      role: "Team Lead",
+      role: "Full Stack Developer(MERN)",
       image: "/Team/waseb.jpeg",
     },
     {
@@ -485,7 +485,7 @@ function TeamTabs() {
     },
     {
       name: "Abhishekh Pattekari",
-      role: "React Native Developer",
+      role: "Full Stack Developer",
       image: "/Team/abhishek.jpeg",
     },
     {

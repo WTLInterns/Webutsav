@@ -90,6 +90,9 @@ const Navbar = () => {
             <NavLink href="/Contact" isScrolled={isScrolled}>
               Contact
             </NavLink>
+            <NavLink href="/Career" isScrolled={isScrolled}>
+              Careers
+            </NavLink>
           </div>
 
           {/* Client Login Button */}
